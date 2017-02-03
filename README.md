@@ -1,5 +1,5 @@
 # Asana::Cli
-[![Build Status](https://travis-ci.org/tannakartikey/asana-cli.svg?branch=master)](https://travis-ci.org/tannakartikey/asana-cli)
+[![Build Status](https://travis-ci.org/tannakartikey/asana-cli.svg?branch=master)](https://travis-ci.org/tannakartikey/asana-cli) [![Code Climate](https://codeclimate.com/github/tannakartikey/asana-cli/badges/gpa.svg)](https://codeclimate.com/github/tannakartikey/asana-cli)
 
 Command line app to deal with Asana. It's real pain for me to use it through a browser.
 
